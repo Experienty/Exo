@@ -1,0 +1,85 @@
+<Project Sdk="Microsoft.NET.Sdk">
+  <PropertyGroup>
+    <OutputType>Library</OutputType>
+    <TargetFramework>net6</TargetFramework>
+  </PropertyGroup>
+  <PropertyGroup>
+    <EnableDefaultCompileItems>false</EnableDefaultCompileItems>
+  </PropertyGroup>
+  <ItemGroup>
+    <Compile Include="Abstratação2.cs" />
+    <Compile Update="Apresentacao.cs" />
+    <Compile Update="Area.cs" />
+    <Compile Update="Calculo.cs" />
+    <Compile Update="Circulo.cs" />
+    <Compile Update="Delegate2.cs" />
+    <Compile Update="Divy1.cs" />
+    <Compile Update="Dictionary.cs" />
+    <Compile Update="Encapsulamento2.cs" />
+    <Compile Update="Enums2.cs" />
+    <Compile Update="Extencao.cs" />
+    <Compile Update="Foreach.cs" />
+    <Compile Update="Herança2.cs" />
+    <Compile Update="Indexadores.cs" />
+    <Compile Update="Interface2.cs" />
+    <Compile Update="Lanches.cs" />
+    <Compile Update="Lin.cs" />
+    <Compile Update="LinkedList.cs" />
+    <Compile Update="Media.cs" />
+    <Compile Update="Media2.cs" />
+    <Compile Update="Multiplos.cs" />
+    <Compile Update="ParamentrosPorReferencia.cs" />
+    <Compile Update="Parametros.cs" />
+    <Compile Update="Preenchimento.cs" />
+    <Compile Update="Recursividade.cs" />
+    <Compile Update="Salario.cs" />
+    <Compile Update="Semples.cs" />
+    <Compile Update="Sturdy.cs" />
+    <Compile Update="Strut2.cs" />
+    <Compile Update="Tempo.cs" />
+    <Compile Update="Abstraçao/Padrao.cs" />
+    <Compile Update="Abstraçao/PessoaFisica.cs" />
+    <Compile Update="Abstraçao/PessoaJuridica.cs" />
+    <Compile Update="Abstraçao/Program.cs" />
+    <Compile Update="BitWise/Bit.cs" />
+    <Compile Update="Constantes/Constante.cs" />
+    <Compile Update="Delegate/Deleg.cs" />
+    <Compile Update="Encapsulamento/Encapsu.cs" />
+    <Compile Update="Encapsulamento/Program.cs" />
+    <Compile Update="Enums/Enuns.cs" />
+    <Compile Update="Estatico/Exemple.cs" />
+    <Compile Update="Estatico/Program.cs" />
+    <Compile Update="Exemple/Program.cs" />
+    <Compile Update="Exemple/Tail.cs" />
+    <Compile Update="FormatosdeSaida/Saidas.cs" />
+    <Compile Update="GetSet/Argo.cs" />
+    <Compile Update="GetSet/Argument.cs" />
+    <Compile Update="GetSet/DashBoard.cs" />
+    <Compile Update="GetSet/Metodo.cs" />
+    <Compile Update="GetSet/Passagem.cs" />
+    <Compile Update="GetSet/Program.cs" />
+    <Compile Update="GetSet/Send.cs" />
+    <Compile Update="GetSet/Triangulo.cs" />
+    <Compile Update="Herança/Colaborador.cs" />
+    <Compile Update="Herança/Program.cs" />
+    <Compile Update="Herança/Usuario.cs" />
+    <Compile Update="InterFace/Inter.cs" />
+    <Compile Update="InterFace/IPadrao.cs" />
+    <Compile Update="InterFace/Program.cs" />
+    <Compile Update="NightFall/Car.cs" />
+    <Compile Update="NightFall/Program.cs" />
+    <Compile Update="Polimorfismo/Atendente.cs" />
+    <Compile Update="Polimorfismo/Estagiario.cs" />
+    <Compile Update="Polimorfismo/Gerente.cs" />
+    <Compile Update="Polimorfismo/Imposto.cs" />
+    <Compile Update="Polimorfismo/Program.cs" />
+    <Compile Update="TypeCast/Cast.cs" />
+  </ItemGroup>
+  <PropertyGroup>
+    <LangVersion>
+    </LangVersion>
+  </PropertyGroup>
+  <PropertyGroup>
+    <AllowUnsafeBlocks>false</AllowUnsafeBlocks>
+  </PropertyGroup>
+</Project>
